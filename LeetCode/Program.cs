@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            VariableAfterOperations.Run();
+            //VariableAfterOperations.Run();
+
+            Single_Number.Run();
         }
     }
 }
